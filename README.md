@@ -16,7 +16,7 @@
 
 ***
 <div align="center"> 
- <a href="www.armandspetrikas.com"><img src='https://github.com/ArmPetri/ArmPetri/blob/main/Website%20Icon.svg' alt='website' height='20'><a/> &nbsp; &nbsp; 
+ <a href="https://armandspetrikas.com/"><img src='https://github.com/ArmPetri/ArmPetri/blob/main/Website%20Icon.svg' alt='website' height='20'><a/> &nbsp; &nbsp; 
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/armandspetrikas/"><img src='https://github.com/ArmPetri/ArmPetri/blob/main/LINKEDIN%20Icon.svg' alt='linkedin' height='20'><a/> &nbsp; &nbsp; 
 <a href="https://github.com/https://github.com/ArmPetri"><img src='https://github.com/ArmPetri/ArmPetri/blob/main/GITHUB%20Icon.svg' alt='github' height='20'><a/> &nbsp; &nbsp; 
 <a href="https://codepen.io/https://codepen.io/armpetri"><img src='https://github.com/ArmPetri/ArmPetri/blob/main/CODEPEN%20Icon.svg' alt='codepen' height='20'><a/> 
