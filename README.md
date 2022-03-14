@@ -18,6 +18,5 @@
 <div align="center"> 
  <a href="https://armandspetrikas.com/" target=”_blank”><img src='https://github.com/ArmPetri/ArmPetri/blob/main/Website%20Icon.svg' alt='website' height='20'><a/> &nbsp; &nbsp; 
 <a href="https://www.linkedin.com/in/armandspetrikas/" target=”_blank”><img src='https://github.com/ArmPetri/ArmPetri/blob/main/LINKEDIN%20Icon.svg' alt='linkedin' height='20'><a/> &nbsp; &nbsp; 
-<a href="https://github.com/ArmPetri" target=”_blank”><img src='https://github.com/ArmPetri/ArmPetri/blob/main/GITHUB%20Icon.svg' alt='github' height='20'><a/> &nbsp; &nbsp; 
-<a href="https://codepen.io/armpetri" target=”_blank”><img src='https://github.com/ArmPetri/ArmPetri/blob/main/CODEPEN%20Icon.svg' alt='codepen' height='20'><a/> 
+<a href="https://github.com/ArmPetri" target=”_blank”><img src='https://github.com/ArmPetri/ArmPetri/blob/main/GITHUB%20Icon.svg' alt='github' height='20'><a/>  
 </div>
