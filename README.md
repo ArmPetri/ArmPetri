@@ -1,4 +1,6 @@
-![](https://github.com/ArmPetri/ArmPetri/blob/main/GITHUB%20Image.png)
+
+![]([https://github.com/ArmPetri/ArmPetri/blob/main/GITHUB%20Image.png](https://github.com/ArmPetri/ArmPetri/blob/main/linkedin_banner_armands.png))
+
 
 <h2 align="center"> Technical Support Engineer | Customer Service Professional with Frontend Development Background </h2>
 
