@@ -1,6 +1,6 @@
 ![](https://github.com/ArmPetri/ArmPetri/blob/main/GITHUB%20Image.png)
 
-<h2 align="center"> I am a web developer primarily focusing on front-end technologies and exploring the world of Web3 </h2>
+<h2 align="center"> Technical Support Engineer | Customer Service Professional with Frontend Development Background </h2>
 
 <div align="center">
   <h3>Technologies</h3>
