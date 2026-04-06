@@ -8,11 +8,11 @@
 <img src='https://github.com/ArmPetri/ArmPetri/blob/main/HTML%20Icon.svg' alt='HTML' height='40' style="display: block; padding: 50px;"> &nbsp; &nbsp; <img src='https://github.com/ArmPetri/ArmPetri/blob/main/CSS%20Icon.svg' alt='CSS' height='40'> &nbsp; &nbsp; <img src='https://github.com/ArmPetri/ArmPetri/blob/main/JS%20Icon.svg' alt='Javascript' height='40'> &nbsp; &nbsp; <img src='https://github.com/ArmPetri/ArmPetri/blob/main/REACT%20Icon.svg' alt='React JS' height='40'>
 </div>
  
-<div align="center"> 
+<!-- <div align="center"> 
  <h3>Currently learning Web3</h3>
 <img src='https://github.com/ArmPetri/ArmPetri/blob/main/SOLIDITY%20Icon.svg' alt='Solidity' height='40'> &nbsp; &nbsp; 
 <img src='https://github.com/ArmPetri/ArmPetri/blob/main/ETHEREUM%20Icon.svg' alt='Solidity' height='40'> 
-</div>
+</div> -->
 
 ***
 <div align="center"> 
